@@ -1,0 +1,2 @@
+requires emacs-for-python to be installed in .emacs.d
+install-package undo-tree helm zenburn-theme
